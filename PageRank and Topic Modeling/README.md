@@ -1,7 +1,7 @@
 # AirportRank
-**Goal: Search for top airports based on the self implemented Page Rank values computed using their connections data
+**Goal: Search for top airports based on the self implemented Page Rank values computed using their connections data**
 
-**Steps:
+**Steps:**
 
 1. Upload files to Amazon S3
 
