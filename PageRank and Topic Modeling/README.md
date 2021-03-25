@@ -1,5 +1,5 @@
 # Airport Rank
-##Goal: Search for top airports based on the self implemented Page Rank values computed using their connections data
+## Goal: Search for top airports based on the self implemented Page Rank values computed using their connections data
 
 **Steps:**
 
